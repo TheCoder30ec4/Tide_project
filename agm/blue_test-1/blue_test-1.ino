@@ -5,7 +5,7 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  //to run type the code in here:
   delay(2000);
   static int count;
   count ++;
